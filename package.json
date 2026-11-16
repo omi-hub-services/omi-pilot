@@ -1,0 +1,11 @@
+{
+  "name": "omi-pilot",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Throwaway pilot project for omi-squad acceptance; synthetic tasks only.",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --test"
+  }
+}
